@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adivina</string>
+    <string name="instrucciones">Deberás adivinar mediante la silueta del personaje
+el nombre del personaje al que corresponde, tendrás
+un límite de 3 intentos, una vez que hayas perdido las 3 oportunidades
+se sumarán tus puntos y el juego habrá terminado</string>
+</resources>

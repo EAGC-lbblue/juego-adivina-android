@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/fnaventura" android:duration="250"/>
+    <item android:drawable="@drawable/fnaventura1" android:duration="250"/>
+    <item android:drawable="@drawable/fnaventura2" android:duration="250"/>
+    <item android:drawable="@drawable/fnaventura3" android:duration="250"/>
+    <item android:drawable="@drawable/fnaventura4" android:duration="250"/>
+    <item android:drawable="@drawable/fnaventura6" android:duration="250"/>
+    <item android:drawable="@drawable/fnaventura7" android:duration="250"/>
+</animation-list>

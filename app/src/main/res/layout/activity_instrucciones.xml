@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/fndtotoro">
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:contentDescription="instrucciones"
+        android:text="INSTRUCCIONES"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#FFF"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:textColor="#FFF"
+        android:textStyle="bold"
+        android:layout_marginTop="100dp"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:text="@string/instrucciones"
+    />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:textColor="#FFF"
+        android:layout_marginTop="300dp"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="Buena Suerte"
+        />
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="35dp"
+        android:background="#BBB"
+        android:onClick="Jugar"
+        android:text="Entendido"
+        android:textAlignment="center"
+        android:textColor="@android:color/background_light"
+        android:textSize="30sp"/>
+
+</RelativeLayout>

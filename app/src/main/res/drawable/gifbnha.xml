@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/fonbnha" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha1" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha2" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha3" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha4" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha5" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha6" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha7" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha8" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha9" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha10" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha11" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha12" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha13" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha14" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha15" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha16" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha17" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha18" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha19" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha20" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha21" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha22" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha23" android:duration="100"/>
+    <item android:drawable="@drawable/fonbnha24" android:duration="100"/>
+</animation-list>
